@@ -1,4 +1,4 @@
-# Granny-1.12.1-For-Unity-Modding-
+# Granny-1.12.1-For-Unity-Modding (DO NOT INSTALL UNLESS YOU WANT TO EXPERENCE BUGS (This is the oldest release, Go to the new release in releases))-
 Tired of solving 100+ Errors?
 Well I did and i'm going to share it.
 
